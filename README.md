@@ -8,7 +8,7 @@
 ![image](https://user-images.githubusercontent.com/112409145/214704029-1f0c3735-d7d8-4884-9e09-913b544871a5.png)
 
 <h2>🛠Comandos<h2>
-São realizados para que a possamos puxar a documentação e fazer o teste de nossa aplicação na seguinte ordem: <p> 
+É efetuado para que a possamos puxar a documentação e fazer o teste de nossa aplicação na seguinte ordem: <p> 
 
 ![image](https://user-images.githubusercontent.com/112409145/214707857-9a4a428d-2ed2-4855-a0a3-c6b9dcfa07ad.png)
 
