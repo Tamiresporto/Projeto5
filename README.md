@@ -14,7 +14,7 @@
 #Clone o Repositório
 $ git repo clone https://github.com/Tamiresporto/Projeto5
 
-# Acessoa pasta do projeto no terminal/cmd
+# Acesse a pasta do projeto no terminal/cmd
 $cd Projeto5-master
  ```
 
