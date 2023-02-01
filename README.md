@@ -17,6 +17,7 @@ $ git repo clone https://github.com/Tamiresporto/Projeto5
 # Acesse a pasta do projeto no terminal/cmd
 $cd Projeto5-master
  ```
+✍🏽Comados realizados no terminal
 
 ![image](https://user-images.githubusercontent.com/112409145/214707857-9a4a428d-2ed2-4855-a0a3-c6b9dcfa07ad.png)
 
