@@ -10,24 +10,14 @@
 <h2>🛠Comandos<h2>
 É efetuado para que a possamos puxar a documentação e fazer o teste de nossa aplicação na seguinte ordem: <p> 
 
-```bash
-#Clone o Repositório
-$ git repo clone https://github.com/Tamiresporto/Projeto5
-
-# Acessoa pasta do projeto no terminal/cmd
-$cd Projeto5-master 
-
-```
-
--Comandos que serão realizados no terminal:
-
 ![image](https://user-images.githubusercontent.com/112409145/214707857-9a4a428d-2ed2-4855-a0a3-c6b9dcfa07ad.png)
 
 
 <h2>🔠Node.js</h2>
 <h4>Através do Node.js é realizado a contrução do código que recebe uma lista de propriedades de CSS (ex: background-color, font-size, text-align) e devolve essa lista ordenada de A-Z.</h4>
+ 
+ 
 
-
-
+![image](https://user-images.githubusercontent.com/112409145/214703831-27fe2657-2287-4975-aae8-f0cb613cd4e9.png)
 
 
